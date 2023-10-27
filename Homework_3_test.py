@@ -1,5 +1,5 @@
 import unittest
-from Homework_4 import *
+from Homework_3 import *
 
 class TestingTernarySearch(unittest.TestCase):
     
